@@ -32,4 +32,4 @@ AVIF 支持：AVIF 图片可直接转换为 WebP。
 
 PC版下载地址
 
-https://github.com/719729765/autoWebP/releases[https://github.com/719729765/autoWebP/releases]
+https://github.com/719729765/autoWebP/releases
