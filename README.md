@@ -29,3 +29,7 @@ AVIF 支持：AVIF 图片可直接转换为 WebP。
 003.avif → 003.webp
 
 程序会等待文件复制完成后再进行处理，降低图片尚未写入完成就开始转换造成失败的情况。
+
+PC版下载地址
+
+https://github.com/719729765/autoWebP/releases[https://github.com/719729765/autoWebP/releases]
