@@ -1,6 +1,9 @@
 # WebP 自动转换器
 
-**当前版本：v1.3**
+<img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/4cba9e47-ac64-44fc-9328-3356ce5d2126" />
+
+
+**当前版本：v1.2 fix**
 
 一款基于 Python + PySide6 开发的 Windows 图片自动转换工具，支持 WebP / AVIF 格式转换、图片尺寸限制、自动文件夹监控和批量手动转换。
 
