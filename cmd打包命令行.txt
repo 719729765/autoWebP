@@ -1,0 +1,8 @@
+进入目录
+cd /d "D:\【Wbep自动转换器】"
+
+安装文件狗如果已经安装则跳过
+python -m pip install --upgrade PyInstaller PySide6 Pillow watchdog pillow-avif-plugin
+
+打包exe
+python -m PyInstaller --noconfirm --clean --onefile --windowed --name "WebP自动转换器" --icon "ico.ico" main.py
